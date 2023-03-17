@@ -9,6 +9,7 @@ This implementation is based on the the knowledge I learnt in course SDSC3002 Da
 
 # Requirements
 Python 3.7 or later
+
 pandas
 
 # Installation
