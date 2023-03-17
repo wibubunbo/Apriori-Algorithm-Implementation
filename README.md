@@ -5,7 +5,7 @@ This is a Python implementation of the Apriori algorithm for mining frequent ite
 # Description
 The Apriori algorithm is a classic algorithm in data mining for discovering frequent itemsets in a transactional database. It uses a bottom-up approach, where frequent subsets of items are used to generate candidate sets of larger size, which are then pruned based on their support. The algorithm terminates when no further successful extensions are found.
 
-This implementation is based on the original paper by Agrawal and Srikant [1], and includes optimizations such as the use of a trie data structure for storing and searching frequent itemsets, and early stopping to avoid processing candidate itemsets that cannot possibly be frequent.
+This implementation is based on the the knowledge I learnt in course SDSC3002 Data Mining in City University of Hong Kong.
 
 # Requirements
 Python 3.7 or later
